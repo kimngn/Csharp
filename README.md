@@ -1,2 +1,2 @@
 # githubTest
-First repository test
+List of kata solved using C#
