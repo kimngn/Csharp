@@ -1,3 +1,6 @@
+//Create a console app that ask user name, if username is Tim, print "hello professor", else "Hi _". Keep doing that until user said exit
+
+
 using System;
 
 namespace Homework_DoWhile
