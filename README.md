@@ -1,2 +1,2 @@
 # Firstsubmit
-List of kata solved using C#
+C# foundation, problem sets and syntax
