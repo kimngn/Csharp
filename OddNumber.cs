@@ -8,13 +8,6 @@ There will always be only one integer that appears an odd number of times.
  * 
  */
 
-
-
-
-
-
-
-
 namespace Solution
 {
     class Kata
