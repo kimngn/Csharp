@@ -1,16 +1,9 @@
 /*ask the user for their first name
  * continue to asking for first name until
  * there are no more.
- * 
  * then loop through each name
  * using foreach and tell them hello
- * 
- * 
  * */
-
-
-
-
 using System;
 using System.Collections.Generic;
 
