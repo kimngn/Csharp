@@ -1,2 +1,2 @@
 # Firstsubmit
-C# foundation, problem sets and syntax
+C# foundation, syntax and basic problem sets
