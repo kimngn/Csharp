@@ -1,3 +1,33 @@
 Static class: the idea is you  put the data in and it will stay forever and everyone has access to that data. For stateless processsing
 
-instantiated classes store data
+Instantiated classes store data.
+
+Encapsulation:
+
+make sure that sensitive data is hidden from users. To achieve this you must:
+1. Declare fields/variables as private
+2. provide public get and set methods, through properties, to access and update the value of private field
+
+What is property ?
+Property types:
+Auto property: Hold normal class data. Allow us to expand get set, to allow more information, protecting information.
+
+control your get set method
+example: 
+
+private string _ssn;   //private field
+public string SSN
+{
+    get
+    {
+        string output = "****-**-" + _ssn.Substring(_ssn.Length - 5);
+        return output;
+    }
+    
+    set { _ssn = value;}
+
+
+}
+
+
+
