@@ -30,4 +30,5 @@ public string SSN
 }
 
 
-
+Get : Read Only
+Set : Write Only
