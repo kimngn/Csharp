@@ -10,9 +10,6 @@
  *  1 mile = 63360 inches
  * */
 
-
-
-
 using System;
 
 namespace Miles2Feet_converter
@@ -39,8 +36,6 @@ namespace Miles2Feet_converter
             {
                 Console.WriteLine("The input is invalid");
             }
-
-
 
             Console.ReadLine();
         }
